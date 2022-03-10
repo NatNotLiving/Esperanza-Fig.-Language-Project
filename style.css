@@ -1,0 +1,44 @@
+body { 
+  background: #f0f8d4; 
+  font-family: 'Architects Daughter', cursive;
+  margin-top: 65px;
+  text-align: center;
+  font-size: 25px;
+  color: #168aad;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #184E77;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #34A0A4;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background: #52B69A;
+  color: #D9ED92;
+}
+
+.main {
+  margin-top: 30px;
+}
+
+h1{
+  color: #184E77;
+}
+h2{
+  color: #1A759F;
+}
+h3{
+  color: #34A0A4;
+}
